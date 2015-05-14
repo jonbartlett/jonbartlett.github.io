@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Jon Bartlett
+tagline:          ''
+description:      'Random musings on random topics. Made by <a href="https://twitter.com/jonbartlettuk" target="_blank">@jonbartlettuk</a>.'
+url:              http://www.jonbartlett.org
+baseurl:          /
+
+author:
+  name:           'Jon Bartlett'
+  url:            https://twitter.com/jonbartlettuk
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/jonbartlett/jonbartlett.github.io
