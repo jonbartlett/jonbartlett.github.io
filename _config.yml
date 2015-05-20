@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Jon Bartlett
 tagline:          ''
-description:      'Random musings on random topics by <a href="https://twitter.com/jonbartlettuk" target="_blank">@jonbartlettuk</a>.'
+description:      'My personal  by <a href="https://twitter.com/jonbartlettuk" target="_blank">@jonbartlettuk</a>.'
 url:              http://www.jonbartlett.org
 baseurl:          /
 
@@ -17,10 +17,10 @@ author:
   name:           'Jon Bartlett'
   url:            https://twitter.com/jonbartlettuk
 
-paginate:         5
+paginate:         1
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/jonbartlett/jonbartlett.github.io
