@@ -3,9 +3,11 @@ layout: default
 title: Home
 ---
 
-<div class="circular"></div>
+<div class="profile_pic"></div>
 
-Welcome to my personal website.  
+Welcome to my website. My name is Jon Bartlett. I am married with two kids and currently reside in Sydney, Australia.
 
-Thanks for reading!
+Here you can find my [CV](cv), details on how to [contact me](contact) and a handful of [notes](notes) on eclectic topics and experiences that are of interest to me.
+
+Thanks for reading.
 
