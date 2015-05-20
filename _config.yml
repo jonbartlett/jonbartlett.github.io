@@ -3,13 +3,14 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+#permalink:        pretty
+permalink:         /:categories/:title/
 relative_permalinks: true
 
 # Setup
 title:            Jon Bartlett
-tagline:          ''
-description:      'My personal  by <a href="https://twitter.com/jonbartlettuk" target="_blank">@jonbartlettuk</a>.'
+tagline:          '' 
+description:      'Personal website of <a href="https://twitter.com/jonbartlettuk">@jonbartlettuk</a>'
 url:              http://www.jonbartlett.org
 baseurl:          /
 
@@ -17,7 +18,7 @@ author:
   name:           'Jon Bartlett'
   url:            https://twitter.com/jonbartlettuk
 
-paginate:         1
+# paginate:         5
 
 # Custom vars
 version:          1.0.0
