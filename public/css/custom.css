@@ -1,0 +1,9 @@
+.circular {
+      width: 400px;
+      height: 400px;
+      border-radius: 200px;
+      -webkit-border-radius: 200px;
+      -moz-border-radius: 200px;
+      background: url(/public/images/jb_profile_pic.jpg) no-repeat;
+	}
+
