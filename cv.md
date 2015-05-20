@@ -27,17 +27,6 @@ Over 15 years experience in packaged enterprise applications and related technol
 * Technical team management
 * Project management (PRINCE2 Practioner)
 
-## Education
-
-UXC Training | Sydney, Australia  
-PRINCE2, Foundation + Practitioner (2014)  
-
-Sheffield Hallam University | Sheffield, United Kingdom  
-BSc (Hons) Business Information Systems (2000)  
-Dissertation: Integrating E-commerce into Organisational ERP systems (First Class)  
-
-Springwood Sixth Form | Kings Lynn, United Kingdom  
-A-Levels: Maths, Physics, Computer Science (1996)  
 
 ## Employment
 
@@ -96,11 +85,23 @@ Data warehouse project on Oracle with Business Objects.
 * *Products*: Oracle Forms + Reports, Oracle Workflow, Oracle JDeveloper IDE, Oracle Discoverer, OA Framework, SQL Loader, SQL Developer, TOAD, Oracle Data Modeller, CUSTOM Library, ADI, Virtual Box, Sub Version, SOAPUI, GIT, VIM, Bash.
 * *Operating Systems*: Linux, OSX, Windows
 
+## Education
+
+UXC Training | Sydney, Australia  
+PRINCE2, Foundation + Practitioner (2014)  
+
+Sheffield Hallam University | Sheffield, United Kingdom  
+BSc (Hons) Business Information Systems (2000)  
+Dissertation: Integrating E-commerce into Organisational ERP systems (First Class)  
+
+Springwood Sixth Form | Kings Lynn, United Kingdom  
+A-Levels: Maths, Physics, Computer Science (1996)  
+
 ## Awards
 
 UXC Red Rock Star Award for Excellence in Delivery (2010 + 2012 + 2013)
 
 ## Personal Interests
-Family, Cycling, History, Sustainability, Alternative technology, 1980's VW vans, Open source initiatives, Cartography, Macro economics, Big Data.
+Family, Cycling, History, Sustainability, Alternative technology, 1980's VW vans, Open source initiatives, Cartography, Macro economics and current affairs.
 
 
