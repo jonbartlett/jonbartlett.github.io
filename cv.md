@@ -27,6 +27,18 @@ Over 15 years experience in packaged enterprise applications and related technol
 * Technical team management
 * Project management (PRINCE2 Practioner)
 
+## Education
+
+UXC Training | Sydney, Australia  
+PRINCE2, Foundation + Practitioner (2014)  
+
+Sheffield Hallam University | Sheffield, United Kingdom  
+BSc (Hons) Business Information Systems (2000)  
+Dissertation: Integrating E-commerce into Organisational ERP systems (First Class)  
+
+Springwood Sixth Form | Kings Lynn, United Kingdom  
+A-Levels: Maths, Physics, Computer Science (1996)  
+
 ## Employment
 
 ### Principle Technical Consultant
@@ -76,17 +88,13 @@ British Steel Engineering Steels (now Tata Steel) | Rotherham, United Kingdom
 
 Data warehouse project on Oracle with Business Objects.
 
-## Education
-
-UXC Training | Sydney, Australia  
-PRINCE2, Foundation + Practitioner (2014)  
-
-Sheffield Hallam University | Sheffield, United Kingdom  
-BSc (Hons) Business Information Systems (2000)  
-Dissertation: Integrating E-commerce into Organisational ERP systems (First Class)  
-
-Springwood Sixth Form | Kings Lynn, United Kingdom  
-A-Levels: Maths, Physics, Computer Science (1996)  
+## Technology Applications and Expertise
+* *Specialised Skills*: 
+* *Oracle ERP Modules*: Technical and functional knowledge in General Ledger, Procure to Pay, Order to Cash, Human Capital Management + Payroll, Inventory Management.
+* *Languages*: PL/SQL, Java, SQL, Ruby, C, HTML5, CSS3, Javascript, XSLT.
+* *Technologies*: OracleDB, J2EE, JSP, JDBC, Oracle Service Bus, Oracle ADF BC, SOAP, REST.
+* *Products*: Oracle Forms + Reports, Oracle Workflow, Oracle JDeveloper IDE, Oracle Discoverer, OA Framework, SQL Loader, SQL Developer, TOAD, Oracle Data Modeller, CUSTOM Library, ADI, Virtual Box, Sub Version, SOAPUI, GIT, VIM, Bash.
+* *Operating Systems*: Linux, OSX, Windows
 
 ## Awards
 
