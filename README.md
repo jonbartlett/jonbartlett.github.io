@@ -1,4 +1,4 @@
- Source code for my blog at [www.jonbartlett.org](http://jonbartlett.org)
+ Source code for my blog at [www.jonbartlett.org](http://www.jonbartlett.org)
  
  Hosted here at [GitHub](http://www.github.com).
  
