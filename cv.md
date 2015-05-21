@@ -66,7 +66,7 @@ Experian Limited | [www.experian.co.uk](http://www.experian.co.uk) | Nottingham,
 Recruited as part of Oracle ERP implementation team for multi-country, multi-language rollout. Delivered many reports, interfaces, customisations and data migration pieces. 
 
 ### Application Developer
-Allegis Group | [www.allegisgroup.com](www.allegisgroup.com) | Winnersh, United Kingdom  
+Allegis Group | [www.allegisgroup.com](http://www.allegisgroup.com) | Winnersh, United Kingdom  
 2000 to 2001  
 
 Developer on internal Oracle ERP implementation. Legacy application development.
