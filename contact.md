@@ -5,9 +5,11 @@ permalink: contact/
 ---
 You can get in touch with me:
 
-* [@twitter](https://twitter.com/jonbartlettuk)
-* [@linkedin](http://au.linkedin.com/in/bartlettjon/)
-* <a href="tel:+61424006192">@phone</a>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-twitter"></i><a href="https://twitter.com/jonbartlettuk">@jonbartlettuk</a></li>
+  <li><i class="fa-li fa fa-linkedin"></i><a href="http://au.linkedin.com/in/bartlettjon">@linkedin</a></li>
+  <li><i class="fa-li fa fa-phone"></i><a href="tel:+61424006192">@0424006192</a></li>
+</ul>
 
 Or by sending an email to jon@jaybe.net
 
