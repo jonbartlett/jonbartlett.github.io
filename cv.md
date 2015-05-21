@@ -7,7 +7,7 @@ permalink: cv/
 
 e: <a href="mailto:jon@jaybe.net">jon@jaybe.net</a>  
 t: <a href="tel:+61424006192">+61 (0)424006192</a>  
-<a href="http://au.linkedin.com/in/bartlettjon/">http://au.linkedin.com/in/bartlettjon/</a>  
+<a href="https://au.linkedin.com/in/bartlettjon/">https://au.linkedin.com/in/bartlettjon/</a>  
 Sydney, NSW, Australia.  
 Australian and British citizen.  
 
