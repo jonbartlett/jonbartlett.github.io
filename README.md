@@ -1,4 +1,4 @@
-![Travis CI Build Status](https://api.travis-ci.org/jonbartlett/jonbartlett.github.io.svg "Travis CI Build Status")
+[![Travis CI Build Status](https://api.travis-ci.org/jonbartlett/jonbartlett.github.io.svg "Travis CI Build Status")](https://travis-ci.org/jonbartlett/jonbartlett.github.io)
 
 Source code for my personal website at [www.jonbartlett.org](http://www.jonbartlett.org)
  
