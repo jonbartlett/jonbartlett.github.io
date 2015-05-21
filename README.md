@@ -8,7 +8,7 @@ Built with:
 * [Poole](https://github.com/poole/poole) 
 * [Jekyll](http://jekyllrb.com/)
 * [Travis CI](https://travis-ci.org/) for continuous integration 
-* [HTML Proofer](https://github.com/gjtorikian/html-prooferi) for testing rendered HTML 
+* [HTML Proofer](https://github.com/gjtorikian/html-proofer) for testing rendered HTML 
 
 
 *NOTE*: If you fork or re-use this project, please be sure you:
