@@ -11,6 +11,6 @@ You can get in touch with me:
   <li><i class="fa-li fa fa-phone"></i><a href="tel:+61424006192">@0424006192</a></li>
 </ul>
 
-Or by sending an email to jon@jaybe.net
+Or by sending an email to mail@jaybe.net
 
 

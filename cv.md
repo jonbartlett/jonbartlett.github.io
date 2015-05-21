@@ -5,7 +5,7 @@ permalink: cv/
 ---
 ## Jon Bartlett
 
-e: <a href="mailto:jon@jaybe.net">jon@jaybe.net</a>  
+e: <a href="mailto:mail@jaybe.net">mail@jaybe.net</a>  
 t: <a href="tel:+61424006192">+61 (0)424006192</a>  
 <a href="https://au.linkedin.com/in/bartlettjon">https://au.linkedin.com/in/bartlettjon</a>  
 Sydney, NSW, Australia.  
