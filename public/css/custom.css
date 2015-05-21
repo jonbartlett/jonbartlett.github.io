@@ -17,8 +17,23 @@
 	}
 
 .home-page-icons {
-      width: 250px;
+      width: 200px;
       display: block;
       margin-left: auto;
       margin-right: auto;
+      padding-top: 50px;
 }
+
+.home-page-icons span {
+      padding-right: 12px;
+      transition: color 0.5s ease; 
+}
+
+.home-page-icons a:link {
+      color: rgb(81,81,81);
+}
+
+.home-page-icons span:hover {
+      color: #268bd2; 
+}
+

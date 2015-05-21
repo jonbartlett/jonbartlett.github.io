@@ -17,6 +17,5 @@ Thanks for reading.
     <a href="tel:+61424006192"><span class="fa fa-phone-square fa-2x"></span></a>
     <a href="https://www.twitter.com/jonbartlettuk"><span class="fa fa-twitter-square fa-2x"></span></a>
     <a href="https://au.linkedin.com/in/bartlettjon"><span class="fa fa-linkedin-square fa-2x"></span></a>
-    <a href="https://github.com/jonbartlett"><span class="fa fa-github-square fa-2x"></span></a>
   </div>
 </div>
