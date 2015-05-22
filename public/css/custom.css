@@ -33,6 +33,10 @@
       color: rgb(81,81,81);
 }
 
+.home-page-icons a:visited {
+      color: rgb(81,81,81);
+}
+
 .home-page-icons span:hover {
       color: #268bd2; 
 }
