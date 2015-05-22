@@ -25,7 +25,7 @@ Over 15 years experience in packaged enterprise applications and related technol
 * Software development standards and process design
 * Business development and pre-sales
 * Technical team management
-* Project management (PRINCE2 Practioner)
+* Project management (PRINCE2 Practitioner)
 
 
 ## Employment
@@ -38,8 +38,8 @@ UXC Red Rock is the largest independent provider of Oracle consulting services i
 
 #### Achievements
 * Technical lead on Oracle ERP implementation at Victorian water utility as part of enterprise transformation program. Responsible for delivery of all technical customisation and data migration activities. Extensive liaison with design authority and functional team. Designed and implemented development process and standards. Managed team of 10 at peak of build phase. Actively involved in data migration and build components.  
-* Oracle ERP implementation for Sydney based oil and gas company. Technical lead role involved recruiting and mentoring technical team members, managing delivery of customisations and data migration components through the development lifecycle. Designed, managed and successfully executed an extensive data migration project. Provided technical input into BI solution over ERP database.
-* Oracle ERP design project for Australia wide construction company. Technical lead in design phase. Involved extensive liaison with functional team to design and scope customisation requirements. Implemented development standards and procedures including the use of source control and application lifecycle management tool for use with off-shore team.
+* Oracle ERP implementation for Sydney based oil and gas company. Technical lead role involved recruiting and mentoring technical team members, managing delivery of customisations and data migration components through the development life cycle. Designed, managed and successfully executed an extensive data migration project. Provided technical input into BI solution over ERP database.
+* Oracle ERP design project for Australia wide construction company. Technical lead in design phase. Involved extensive liaison with functional team to design and scope customisation requirements. Implemented development standards and procedures including the use of source control and application life cycle management tool for use with off-shore team.
 * Custom application design and delivery.
 * BI and transactional report design and delivery.
 * Provision of internal training and knowledge sharing around new tools, development standards, source control best practices.
@@ -63,7 +63,7 @@ Technical consultant for Oracle ERP focused consultancy specialising in healthca
 Experian Limited | [www.experian.co.uk](http://www.experian.co.uk) | Nottingham, United Kingdom  
 2001 to 2004  
 
-Recruited as part of Oracle ERP implementation team for multi-country, multi-language rollout. Delivered many reports, interfaces, customisations and data migration pieces. 
+Recruited as part of Oracle ERP implementation team for multi-country, multi-language roll-out. Delivered many reports, interfaces, customisations and data migration pieces. 
 
 ### Application Developer
 Allegis Group | [www.allegisgroup.com](http://www.allegisgroup.com) | Winnersh, United Kingdom  
