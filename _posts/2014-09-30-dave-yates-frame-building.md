@@ -5,7 +5,7 @@ comments: true
 ---
 ![{{ page.title }}](/public/images/2014-07-28-brazing-resize.jpg)
 
-A long term aspirations of mine is to build my own bicycle frame from scratch. I have only ever bought one bike that came assembled. Most of my bikes I end up finding parts for, and building myself. A frame I have yet to build despite reading intensely on the topic. 
+A long time aspiration of mine was to build my own bicycle frame from scratch. I have only ever bought one bike that came assembled. Most of my bikes I end up finding parts for and building myself. 
 
 ## The Course
 
