@@ -13,6 +13,7 @@ title:            Jon Bartlett
 tagline:          '' 
 description:      'Personal website of <a href="https://twitter.com/jonbartlettuk">@jonbartlettuk</a>'
 url:              http://www.jonbartlett.org
+# baseurl must be '/' as home links rely on it
 baseurl:          '/'
 
 author:
