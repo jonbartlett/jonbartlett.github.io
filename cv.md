@@ -5,9 +5,11 @@ permalink: cv/
 ---
 ## Jon Bartlett
 
-e: <a href="mailto:mail@jaybe.net">mail@jaybe.net</a>  
-t: <a href="tel:+61424006192">+61 (0)424006192</a>  
-<a href="https://au.linkedin.com/in/bartlettjon">https://au.linkedin.com/in/bartlettjon</a>  
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-envelope-o"></i><a href="mailto:mail@jaybe.net">mail@jaybe.net</a></li>
+  <li><i class="fa-li fa fa-phone"></i><a href="tel:+61424006192">@+61(0)424006192</a></li>
+  <li><i class="fa-li fa fa-linkedin"></i><a href="https://au.linkedin.com/in/bartlettjon">@linkedin</a></li>
+</ul>
 Sydney, NSW, Australia.  
 Australian and British citizen.  
 
@@ -31,7 +33,7 @@ Over 15 years experience in packaged enterprise applications and related technol
 ## Employment
 
 ### Principle Technical Consultant
-UXC Red Rock Consulting | [www.uxcredrock.com](http://www.uxcredrock.com) | Sydney + Melbourne, Australia
+[UXC Red Rock Consulting](http://www.uxcredrock.com) | Sydney + Melbourne, Australia
 2008 to present  
 
 UXC Red Rock is the largest independent provider of Oracle consulting services in Australia and New Zealand. 15+ client engagements over the past 6 years from single week to multi- year enterprise transformation projects. My role as Principle Technical consultant involves all aspects of technical design and delivery of customisations, extensions and data migration aspects related to new or existing Oracle ERP and bespoke application implementations, inclusive of technical team and project management.  
@@ -46,7 +48,7 @@ UXC Red Rock is the largest independent provider of Oracle consulting services i
 * Many other client engagements of various degrees of complexity
 
 ### Senior Technical Consultant
-Patech Solutions Limited | [www.patech-solutions.com](http://www.patech-solutions.com) | Litchfield, United Kingdom  
+[Patech Solutions Limited](http://www.patech-solutions.com) | Litchfield, United Kingdom  
 2004 to 2008  
 
 Technical consultant for Oracle ERP focused consultancy specialising in healthcare and local government sectors. Small, dynamic, highly focused, template based roll outs.
@@ -60,13 +62,13 @@ Technical consultant for Oracle ERP focused consultancy specialising in healthca
 * End user training.
 
 ### Development Consultant
-Experian Limited | [www.experian.co.uk](http://www.experian.co.uk) | Nottingham, United Kingdom  
+[Experian Limited](http://www.experian.co.uk) | Nottingham, United Kingdom  
 2001 to 2004  
 
 Recruited as part of Oracle ERP implementation team for multi-country, multi-language roll-out. Delivered many reports, interfaces, customisations and data migration pieces. 
 
 ### Application Developer
-Allegis Group | [www.allegisgroup.com](http://www.allegisgroup.com) | Winnersh, United Kingdom  
+[Allegis Group](http://www.allegisgroup.com) | Winnersh, United Kingdom  
 2000 to 2001  
 
 Developer on internal Oracle ERP implementation. Legacy application development.
