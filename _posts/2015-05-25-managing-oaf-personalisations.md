@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing Oracle e-Business Suite Personalisations between Environments 
+title: Comparing Oracle e-Business Suite Personalisations
 comments: true
 category: geek 
 tags: oracle ebs oaf personalizations
