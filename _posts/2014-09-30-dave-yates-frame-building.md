@@ -2,6 +2,7 @@
 layout: post
 title: Dave Yates Bicycle Frame Building Course 
 comments: true
+category: cycling
 ---
 ![{{ page.title }}](/public/images/2014-07-28-brazing-resize.jpg)
 
