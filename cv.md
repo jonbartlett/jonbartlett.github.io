@@ -33,8 +33,9 @@ Over 15 years experience in packaged enterprise applications and related technol
 ## Employment
 
 ### Principle Technical Consultant
-[UXC Red Rock Consulting](http://www.uxcredrock.com) | Sydney + Melbourne, Australia
-2008 to present  
+[UXC Red Rock Consulting](http://www.uxcredrock.com)  
+Sydney + Melbourne, Australia  
+2008 to present
 
 UXC Red Rock is the largest independent provider of Oracle consulting services in Australia and New Zealand. 15+ client engagements over the past 6 years from single week to multi- year enterprise transformation projects. My role as Principle Technical consultant involves all aspects of technical design and delivery of customisations, extensions and data migration aspects related to new or existing Oracle ERP and bespoke application implementations, inclusive of technical team and project management.  
 
@@ -48,7 +49,8 @@ UXC Red Rock is the largest independent provider of Oracle consulting services i
 * Many other client engagements of various degrees of complexity
 
 ### Senior Technical Consultant
-[Patech Solutions Limited](http://www.patech-solutions.com) | Litchfield, United Kingdom  
+[Patech Solutions Limited](http://www.patech-solutions.com)  
+Litchfield, United Kingdom  
 2004 to 2008  
 
 Technical consultant for Oracle ERP focused consultancy specialising in healthcare and local government sectors. Small, dynamic, highly focused, template based roll outs.
@@ -62,19 +64,22 @@ Technical consultant for Oracle ERP focused consultancy specialising in healthca
 * End user training.
 
 ### Development Consultant
-[Experian Limited](http://www.experian.co.uk) | Nottingham, United Kingdom  
+[Experian Limited](http://www.experian.co.uk)  
+Nottingham, United Kingdom  
 2001 to 2004  
 
 Recruited as part of Oracle ERP implementation team for multi-country, multi-language roll-out. Delivered many reports, interfaces, customisations and data migration pieces. 
 
 ### Application Developer
-[Allegis Group](http://www.allegisgroup.com) | Winnersh, United Kingdom  
+[Allegis Group](http://www.allegisgroup.com)  
+Winnersh, United Kingdom   
 2000 to 2001  
 
 Developer on internal Oracle ERP implementation. Legacy application development.
 
 ### Data Warehouse Developer
-British Steel Engineering Steels (now Tata Steel) | Rotherham, United Kingdom  
+British Steel Engineering Steels (now Tata Steel)  
+Rotherham, United Kingdom  
 2000 to 2001  
 
 Data warehouse project on Oracle with Business Objects.
