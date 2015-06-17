@@ -84,7 +84,7 @@ Rotherham, United Kingdom
 
 Data warehouse project on Oracle with Business Objects.
 
-## Technology Applications and Expertise
+## Technology and Applications Expertise
 * *Oracle ERP Modules*: Technical and functional expertise in General Ledger, Procure to Pay, Order to Cash, Human Capital Management + Payroll, Inventory Management.
 * *Languages*: PL/SQL, Java, SQL, Ruby, C, HTML5, CSS3, Javascript, XSLT.
 * *Technologies*: OracleDB, J2EE, JSP, JDBC, Oracle Service Bus, Oracle ADF BC, SOAP, REST.
@@ -94,10 +94,10 @@ Data warehouse project on Oracle with Business Objects.
 ## Education
 
 UXC Training | Sydney, Australia  
-PRINCE2, Foundation + Practitioner (2014)  
+PRINCE2 Practitioner (2014) Candidate Number 9980076393556581
 
 Sheffield Hallam University | Sheffield, United Kingdom  
-BSc (Hons) Business Information Systems (2000)  
+BSc (Hons) Business Information Systems (2:1) (2000)  
 Dissertation: Integrating E-commerce into Organisational ERP systems (First Class)  
 
 Springwood Sixth Form | Kings Lynn, United Kingdom  
