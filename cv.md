@@ -88,7 +88,7 @@ Data warehouse project on Oracle with Business Objects.
 * *Oracle ERP Modules*: Technical and functional expertise in General Ledger, Procure to Pay, Order to Cash, Human Capital Management + Payroll, Inventory Management.
 * *Languages*: PL/SQL, Java, SQL, Ruby, C, HTML5, CSS3, Javascript, XSLT.
 * *Technologies*: OracleDB, J2EE, JSP, JDBC, Oracle Service Bus, Oracle ADF BC, SOAP, REST.
-* *Products*: Oracle Forms + Reports, Oracle Workflow, Oracle JDeveloper IDE, Oracle Discoverer, OA Framework, SQL Loader, SQL Developer, TOAD, Oracle Data Modeller, CUSTOM Library, ADI, Virtual Box, Sub Version, SOAPUI, GIT, VIM, Bash.
+* *Products*: Oracle BI Publisher, Oracle Forms + Reports, Oracle Workflow, Oracle JDeveloper IDE, Oracle Discoverer, OA Framework, SQL Loader, SQL Developer, TOAD, Oracle Data Modeller, CUSTOM Library, ADI, Virtual Box, Sub Version, SOAPUI, GIT, VIM, Bash.
 * *Operating Systems*: Linux, OSX, Windows
 
 ## Education
