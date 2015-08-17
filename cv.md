@@ -107,7 +107,5 @@ A-Levels: Maths, Physics, Computer Science (1996)
 
 UXC Red Rock Star Award for Excellence in Delivery (2010 + 2012 + 2013)
 
-## Personal Interests
-Family, Cycling, History, Sustainability, Alternative technology, 1980's VW vans, Open source initiatives, Cartography, Macro economics and current affairs.
 
 
