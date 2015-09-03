@@ -85,6 +85,11 @@ Using the PVOutput [API](http://pvoutput.org/help.html#api) and the open source 
 ###Enable PVOutput API Access
 
 Within PVOutout, API access is not enabled by default. Log into PVOutput and within the settings, enable API access. Also set a read only key as this will be used to access your data. Also take note of your "System ID".
+
+###Enter Billing Data into PVOutput
+
+In order to calculate financial information from your energy usage, PVOutput needs to know about your electrity tariff. Edit your System settings in PVOutput with import, export and service charges to reflect your tariff.  
+
  
 ###Configure PVOutputQIF
 
