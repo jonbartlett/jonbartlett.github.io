@@ -35,7 +35,7 @@ Over 15 years experience in packaged enterprise applications and related technol
 ### Principle Technical Consultant
 [UXC Red Rock Consulting](http://www.uxcredrock.com)  
 Sydney + Melbourne, Australia  
-2008 to present
+2008 to 2015
 
 UXC Red Rock is the largest independent provider of Oracle consulting services in Australia and New Zealand. 15+ client engagements over the past 6 years from single week to multi- year enterprise transformation projects. My role as Principle Technical consultant involves all aspects of technical design and delivery of customisations, extensions and data migration aspects related to new or existing Oracle ERP and bespoke application implementations, inclusive of technical team and project management.  
 
