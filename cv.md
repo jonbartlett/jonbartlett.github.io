@@ -10,21 +10,20 @@ permalink: cv/
   <li><i class="fa-li fa fa-phone"></i><a href="tel:+61424006192">@+61(0)424006192</a></li>
   <li><i class="fa-li fa fa-linkedin"></i><a href="https://au.linkedin.com/in/bartlettjon">@linkedin</a></li>
 </ul>
-Sydney, NSW, Australia.
+Melbourne, Vic, Australia.
 Australian and British citizen.
 
-
-Over 15 years experience in packaged enterprise applications and related technologies from both within industry and in a professional services consulting capacity. Solution and results driven with a focus on delivery, user experience, process efficiency, best practice implementation and reuse opportunities. I have managed and delivered all aspects of technical delivery within small to large-scale Oracle system implementations, from technical team management to hands on component delivery. I am a flexible, dynamic and outcome focused individual with excellent communication and technical skills.
+I have over 17 years experience in data centric enterprise applications and related technologies from both within industry and in a professional services consulting capacity. Solution and results driven with a focus on delivery, user experience, process efficiency, best practice implementation and reuse opportunities. I have managed and delivered all aspects of technical delivery within small to large-scale system implementations, from tech team management to hands on component delivery. A flexible, dynamic and outcome focused individual with excellent communication and technical skills.
 
 ##Key skills include:
-* Best practice solution and application design
-* Innovative and audit compliant enterprise data migration strategies
+* Best practice solution architecture and application design
+* Innovative and audit compliant enterprise data migration and ETL strategies
 * System integration design and delivery
 * Data modelling, analysis and optimisation
 * Business intelligence and data warehousing expertise
-* Comprehensive functional understanding of major ERP modules and processes
-* Hands-on technical expertise and development skills within all aspects of Oracle ERP
-* Software development standards and process design
+* Comprehensive functional understanding of major ERP modules and process flows
+* Software development standards and development lifecycle process design
+* Continuous delivery
 * Business development and pre-sales
 * Technical team management
 * Project management (PRINCE2 Practitioner)
@@ -40,9 +39,13 @@ Sydney, Australia
 David Jones are the leading premium retailer in Australia. I was recruited into the internal IT projects team to assist with a number of on-going enterprise application projects.
 
 #### Achievements
-* Deliver supply chain integration solution with parent company via SOAP web service and traditional EDI messaging. Technologies involved include: Oracle XMLDB, Oracle Forms and IBM DB2.
+* Architect and deliver Salesforce REST services.
+* Deliver supply chain integration solution with parent company via SOAP web service and traditional EDI messaging. Technologies involved include: Oracle XMLDB, Oracle Forms and IBM DB2 (XQuery).
 * Enterprise Data Warehouse ETL design and development (IBM DB2).
-* Design and build data conversion and on-going data extracts from David Jones data warehouse (DB2) to Oracle Retail Merchandise Financial Planning and Oracle Retail Assortment Planning.
+* Design and build data conversion and on-going data extracts from David Jones data warehouse (DB2) to Oracle Retail Merchandise Financial Planning and Oracle Retail Assortment Planning. 
+* Lead development lifecycle improvement program including: source control, database change deployment and automated testing through the use of Continuous Delivery tools
+* Advise on database management best practices.
+
 
 ### Principle Technology Consultant
 [UXC Red Rock Consulting](http://www.uxcredrock.com)
@@ -95,13 +98,6 @@ Rotherham, United Kingdom
 2000 to 2001
 
 Data warehouse project on Oracle with Business Objects.
-
-## Technology and Applications Expertise
-* *Oracle ERP Modules*: Technical and functional expertise in General Ledger, Procure to Pay, Order to Cash, Human Capital Management + Payroll, Inventory Management.
-* *Languages*: PL/SQL, Java, SQL, Ruby, C, HTML5, CSS3, Javascript, XSLT.
-* *Technologies*: OracleDB, IBM DB2, J2EE, JSP, JDBC, Oracle Service Bus, Oracle ADF BC, SOAP, REST.
-* *Products*: Oracle BI Publisher, Oracle Forms + Reports, Oracle Workflow, Oracle JDeveloper IDE, Oracle Discoverer, OA Framework, SQL Loader, SQL Developer, TOAD, Oracle Data Modeller, CUSTOM Library, ADI, Virtual Box, Sub Version, SOAPUI, GIT, VIM, Bash.
-* *Operating Systems*: Linux, OSX, Windows
 
 ## Education
 

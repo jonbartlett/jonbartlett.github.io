@@ -5,11 +5,9 @@ title: Home
 
 <div class="profile_pic"></div>
 
-Welcome to my website. My name is Jon Bartlett. I am a technology professional originating from the UK, now residing in Sydney, Australia. Married with two children. Too many hobbies.
+Welcome to my website. My name is Jon Bartlett. I am a technology professional originating from the UK, now residing in ~~Sydney~~ c.Melbourne, Australia. Married with two children. Too many hobbies.
 
 Here you can find my [CV]({{ site.baseurl }}cv), details on how to [contact me]({{ site.baseurl }}contact) and a handful of [notes]({{ site.baseurl }}notes) on various topics that are of interest to me.
-
-Thanks for reading.
 
 <div>
   <div class="home-page-icons">
