@@ -11,13 +11,13 @@ relative_permalinks: true
 # Setup
 title:            Jon Bartlett
 tagline:          '' 
-description:      'Personal website of <a href="https://twitter.com/jonbartlettuk">@jonbartlettuk</a>'
+description:      'My personal website'
 url:              http://www.jonbartlett.org
 baseurl:          ''
 
 author:
   name:           'Jon Bartlett'
-  url:            https://twitter.com/jonbartlettuk
+  url:            https://twitter.com/MrJonBartlett
 
 # paginate:         5
 
