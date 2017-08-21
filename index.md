@@ -13,7 +13,7 @@ Here you can find my [CV]({{ site.baseurl }}cv), details on how to [contact me](
   <div class="home-page-icons">
     <a href="mailto:mail@jaybe.net"><span class="fa fa-envelope-o fa-2x"></span></a>
     <a href="tel:+61424006192"><span class="fa fa-phone-square fa-2x"></span></a>
-    <a href="https://www.twitter.com/jonbartlettuk"><span class="fa fa-twitter-square fa-2x"></span></a>
+    <a href="https://www.twitter.com/mrjonbartlett"><span class="fa fa-twitter-square fa-2x"></span></a>
     <a href="https://au.linkedin.com/in/bartlettjon"><span class="fa fa-linkedin-square fa-2x"></span></a>
   </div>
 </div>
