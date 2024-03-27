@@ -9,13 +9,13 @@ permalink: cv/
   <li><i class="fa-li fa fa-envelope-o"></i><a href="mailto:mail@jaybe.net">mail@jaybe.net</a></li>
   <li><i class="fa-li fa fa-phone"></i><a href="tel:+61424006192">@+61(0)424006192</a></li>
   <li><i class="fa-li fa fa-linkedin"></i><a href="https://au.linkedin.com/in/bartlettjon">@linkedin</a></li>
+  <li><i class="fa-solid fa-location-dot"></i>Woodend, Victoria, Australia</li>
+  <li><i class="fa-solid fa-passport"></i>Australian and British citizen</li>
 </ul>
-Melbourne, Vic, Australia.
-Australian and British citizen.
 
 An experienced Technical Solution Architect with a focus on enterprise applications and related technologies from both within industry and in a professional services capacity. Solution and results driven with a focus on delivery, customer experience, process efficiency, best practice implementation and re-use opportunities. I have managed all aspects of delivery within small to large-scale system implementations, from team management and solution architecture to hands on project delivery. I am regarded as a flexible, dynamic and outcome focused individual with excellent communication and stakeholder management skills.
 
-##Key skills include:
+### Key skills include:
 * Salesforce + ServiceMax product and Service domain expertise across multiple industry sectors
 * Oracle ERP technical and functional expertise across all major modules.
 * Best practice requirements gathering, solution architecture and application design.
