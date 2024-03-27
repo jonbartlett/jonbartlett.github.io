@@ -13,32 +13,52 @@ permalink: cv/
 Melbourne, Vic, Australia.
 Australian and British citizen.
 
-I have over 17 years experience in data centric enterprise applications and related technologies from both within industry and in a professional services consulting capacity. Solution and results driven with a focus on delivery, user experience, process efficiency, best practice implementation and reuse opportunities. I have managed and delivered all aspects of technical delivery within small to large-scale system implementations, from tech team management to hands on component delivery. A flexible, dynamic and outcome focused individual with excellent communication and technical skills.
+An experienced Technical Solution Architect with a focus on enterprise applications and related technologies from both within industry and in a professional services capacity. Solution and results driven with a focus on delivery, customer experience, process efficiency, best practice implementation and re-use opportunities. I have managed all aspects of delivery within small to large-scale system implementations, from team management and solution architecture to hands on project delivery. I am regarded as a flexible, dynamic and outcome focused individual with excellent communication and stakeholder management skills.
 
 ##Key skills include:
-* Best practice solution architecture and application design
-* Innovative and audit compliant enterprise data migration and ETL strategies
-* System integration design and delivery
-* Data modelling, analysis and optimisation
-* Business intelligence and data warehousing expertise
-* Comprehensive functional understanding of major ERP modules and process flows
-* Software development standards and development lifecycle process design
-* Continuous delivery
-* Business development and pre-sales
-* Technical team management
-* Project management (PRINCE2 Practitioner)
+* Salesforce + ServiceMax product and Service domain expertise across multiple industry sectors
+* Oracle ERP technical and functional expertise across all major modules.
+* Best practice requirements gathering, solution architecture and application design.
+* System integration design and delivery.
+* Enterprise data migration, ETL strategy and execution.
+* Data modelling, analysis and optimisation across multiple platforms.
+* Business intelligence and data warehousing expertise.
+* Software development standards and development lifecycle process design.
+* Interest in and experience of continuous delivery practices and DevOps.
+* AGILE development practices + technical team management (on-shore + off-shore).
+* Project management (PRINCE2 Practitioner).
+* Business development and pre-sales.
+* End user training
 
 
-## Employment
+## Career Overview
+
+### Solution Architect (Professional Services APAC)
+[PTC ServiceMax](www.servicemax.com)
+Remote + Melbourne, Australia
+2018 to 2023
+
+ServiceMax provide digital Field Service Management solutions and are recognised as a leader within the industry. The ServiceMax solution utilises the Salesforce Platform with bespoke and customisable mobile apps to support remote and field-based workforces. As Solution Architect I have managed all aspects of delivery from workshop facilitation / requirements gathering and solution design, to project build and delivery.
+
+#### Key Achievements
+
+* Interact with clients (AU, Japan, Singapore, Indonesia, US) to deliver best practice solutions via exploratory workshops.
+* Extensive Salesforce + ServiceMax configuration and customisation on multiple complex projects and environments (multi-region/language/currency).
+* Liaise with internal Product development team.
+* Advisory services on work optimisation project for leading Australian telecoms provider.
+* Design and delivery of contractor onboarding solution for Australian workforce aggregation provider.
+* Stock management and inventory solution for Japanese med device manufacturer. Extensive liaison with offshore development and Product development teams.
+* Many other enhancement and greenfield implementation projects for existing and new clients respectively.
+
 
 ### Independent Technology Consultant
 [David Jones](http://www.davidjones.com.au)
 Sydney, Australia
-2016 to present
+2016 to 2018
 
-David Jones are the leading premium retailer in Australia. I was recruited into the internal IT projects team to assist with a number of on-going enterprise application projects.
+David Jones are the leading premium retailer in Australia. I was recruited into the internal IT projects team to lead and assist with a number of on-going enterprise application projects.
 
-#### Achievements
+#### Key Achievements
 * Architect and deliver Salesforce REST services.
 * Deliver supply chain integration solution with parent company via SOAP web service and traditional EDI messaging. Technologies involved include: Oracle XMLDB, Oracle Forms and IBM DB2 (XQuery).
 * Enterprise Data Warehouse ETL design and development (IBM DB2).
@@ -54,7 +74,7 @@ Sydney + Melbourne, Australia
 
 UXC Red Rock is the largest independent provider of Oracle consulting services in Australia and New Zealand. 15+ client engagements over the past 6 years from single week to multi- year enterprise transformation projects. My role as Principle Technical consultant involves all aspects of technical design and delivery of customisations, extensions and data migration aspects related to new or existing Oracle ERP and bespoke application implementations, inclusive of technical team and project management.
 
-#### Achievements
+#### Key Achievements
 * Technical lead on Oracle ERP implementation at Victorian water utility as part of enterprise transformation program. Responsible for delivery of all technical customisation and data migration activities. Extensive liaison with design authority and functional team. Designed and implemented development process and standards. Managed team of 10 at peak of build phase. Actively involved in data migration and build components.
 * Oracle ERP implementation for Sydney based oil and gas company. Technical lead role involved recruiting and mentoring technical team members, managing delivery of customisations and data migration components throughout the development life cycle. Designed, managed and successfully executed an extensive data migration project involving multiple source systems and complex mapping logic. Provided technical input into BI solution over ERP database.
 * Oracle ERP design project for Australia wide construction company. Technical lead in design phase. Involved extensive liaison with functional team to design and scope customisation requirements. Implemented development standards and procedures including the use of source control and application life cycle management tool for use with off-shore team.
@@ -70,7 +90,7 @@ Litchfield, United Kingdom
 
 Technical consultant for Oracle ERP focused consultancy specialising in healthcare and local government sectors. Small, dynamic, highly focused, template based roll outs.
 
-#### Achievements:
+#### Key Achievements:
 
 * Technical lead roles.
 * Data migration planning, design and implementation.
@@ -105,11 +125,8 @@ UXC Training | Sydney, Australia
 PRINCE2 Practitioner (2014) Candidate Number 9980076393556581
 
 Sheffield Hallam University | Sheffield, United Kingdom
-BSc (Hons) Business Information Systems (2:1) (2000)
+BSc (Hons) Business Information Systems (2:1)
 Dissertation: Integrating E-commerce into Organisational ERP systems (First Class)
-
-Springwood Sixth Form | Kings Lynn, United Kingdom
-A-Levels: Maths, Physics, Computer Science (1996)
 
 ## Awards
 
